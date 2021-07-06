@@ -1,6 +1,6 @@
 # zipmex-quiz
 ## How to Run Test Script
-- Step 1 - Install `Python3` (https://www.python.org/downloads/)
+- Step 1 - Install `Python3.8.1` (https://www.python.org/downloads/)
 - Step 2 - Install `Pip` (https://pip.pypa.io/en/latest/installation/)
 - Step 3 - Download `chromedriver` for mac (https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.19/) For google chrome version 91.x.x or above
 - Step 3.1 - unzip `chromedriver`
